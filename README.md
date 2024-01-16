@@ -19,7 +19,7 @@ Code two methods in the `Person` class. Name those methods `sleep()` and `doSome
 The `sleep()` method should take the existing energy level and increase it by 10.
 
 The doSomethingFun() method should take the existing energy level and decrease it by 10.
-<br><br>
+<br>
 
 ## Task 2: Code a Worker class
 
@@ -37,7 +37,7 @@ hourlyWage = 10
 The `Worker` class has all the paramerters and methods of its super-class.
 
 Additionally, it has the `goToWork()` method, which, whenever it's run, increases the value of the `xp` property by 10.
-<br><br>
+<br>
 
 ## Task 3: Code a intern object
 
@@ -54,7 +54,7 @@ hourlyWage: 10
 
 Run the `goToWork()` method on the intern object. Then `return` the intern object.
 
-<br><br>
+<br>
 
 ## Task 4: Code a manager object
 
@@ -71,5 +71,5 @@ hourlyWage: 30
 
 Run the `doSomethingFun()` method on the manager object. Then `return` the manager object.
 
-<br><br>
+<br>
 ### Nice work!
